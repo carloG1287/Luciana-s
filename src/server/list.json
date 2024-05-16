@@ -1,0 +1,232 @@
+{ "list":[
+    {
+        "id": 1,
+        "name": "Kimetsu no Yaiba",
+        "img": "https://demonslayer-hinokami.sega.com/img/purchase/digital-standard.jpg",
+        "href": "https://www3.animeflv.net/anime/kimetsu-no-yaiba"
+    },
+    {
+        "id": 2,
+        "name": "Another",
+        "img": "https://es.web.img3.acsta.net/pictures/19/09/19/15/04/5354652.jpg",
+        "href": "https://www3.animeflv.net/anime/another"
+    },
+    {
+        "id": 3,
+        "name": "Elfen Lied",
+        "img": "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=480,height=720,quality=85/catalog/crunchyroll/e9131d9dad8d57b750bc1bcc002a96e2.jpe",
+        "href": "https://www3.animeflv.net/anime/elfen-lied"
+    },
+    {
+        "id": 4,
+        "name": "Mirai Nikki",
+        "img": "https://ramenparados.com/wp-content/uploads/2018/10/Mirai-Nikki-Redial-1-300x425.jpg",
+        "href": "https://www3.animeflv.net/anime/mirai-nikki-2011"
+    },
+    {
+        "id": 5,
+        "name": "Corpse Party",
+        "img": "https://m.media-amazon.com/images/M/MV5BYjg4NDU2M2ItZTdkNy00NmVjLTlmZDUtOGRmOWU0NTczZmIzXkEyXkFqcGdeQXVyMTM0MzkwMTk0._V1_FMjpg_UX1000_.jpg",
+        "href": "https://www3.animeflv.net/anime/corpse-party-missing-footage"
+    },
+    {
+        "id": 6,
+        "name": "Takt op: Destiny",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjU2YTg2MjgtODk0ZC00NGI4LWJmZmItNmM2MDkwYzQ4YTBhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg",
+        "href": "https://www3.animeflv.net/anime/takt-op-destiny"
+    },
+    {
+        "id": 7,
+        "name": "Fruits Basket",
+        "img": "https://es.web.img3.acsta.net/pictures/19/08/01/15/58/3865147.jpg",
+        "href": "https://www3.animeflv.net/anime/fruits-basket-2019"
+    },
+    {
+        "id": 8,
+        "name": "Sekaiichi Hatsukoi",
+        "img": "https://ramenparados.com/wp-content/uploads/2018/10/IVRSEKHAT01-300x423.jpg",
+        "href": "https://www3.animeflv.net/anime/sekaiichi-hatsukoi"
+    },
+    {
+        "id": 9,
+        "name": "Given",
+        "img": "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=480,height=720,quality=85/catalog/crunchyroll/f7293b9a5d3b05325707d6ed613ebcb4.jpe",
+        "href": "https://www3.animeflv.net/anime/given"
+    },
+    {
+        "id": 10,
+        "name": "Sasaki to Miyano",
+        "img": "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=480,height=720,quality=85/catalog/crunchyroll/b903dfd252fd4ab172f0707c9c654cb0.jpe",
+        "href": "https://www3.animeflv.net/anime/sasaki-to-miyano"
+    },
+    {
+        "id": 11,
+        "name": "Junjou Romantica",
+        "img": "https://images.justwatch.com/poster/301995102/s718/junjou-romantica.jpg",
+        "href": "https://www3.animeflv.net/anime/junjou-romantica"
+    },
+    {
+        "id": 12,
+        "name": "Super Lovers",
+        "img": "https://m.media-amazon.com/images/M/MV5BNzg2M2Q0OWUtYWM0Ni00MjUwLWJmN2YtYWU4Zjc3MTRkMTVlXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_FMjpg_UX1000_.jpg",
+        "href": "https://www3.animeflv.net/anime/super-lovers"
+    },
+    {
+        "id": 13,
+        "name": "Love Stage",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTk3NWIwOTctMjVjNS00OWQ5LWFhOWItNzRmMDZmYTI4ODFkXkEyXkFqcGdeQXVyMzQ2MTkxMDU@._V1_FMjpg_UX1000_.jpg",
+        "href": "https://www3.animeflv.net/anime/love-stage"  
+    },
+    {
+        "id": 14,
+        "name": "Dramatical Murders",
+        "img": "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=480,height=720,quality=85/catalog/crunchyroll/91c3c07b001931bcdb342bb21b711c58.jpe",
+        "href": "https://www3.animeflv.net/anime/dramatical-murders"
+    },
+    {
+        "id": 15,
+        "name": "Kuroshitsuji",
+        "img": "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=480,height=720,quality=85/catalog/crunchyroll/c997bc87394b12e63f0c5639fa9e104e.jpe",
+        "href": "https://www3.animeflv.net/anime/kuroshitsuji"  
+    },
+    {
+        "id": 16,
+        "name": "Tate no Yuusha",
+        "img": "https://i.pinimg.com/originals/a8/3a/cd/a83acd5e86ea425c71fdf86d00a5a3d4.jpg",
+        "href": "https://www3.animeflv.net/anime/tate-no-yuusha-no-nariagari"
+    },
+    {
+        "id": 17,
+        "name": "Kenichi",
+        "img": "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=480,height=720,quality=85/catalog/crunchyroll/5058333970778d0df722ff5bc79181d4.jpe",
+        "href": "https://www3.animeflv.net/anime/shijou-saikyou-no-deshi-kenichi"
+    },
+    {
+        "id": 18,
+        "name": "Deltora Quest",
+        "img": "https://m.media-amazon.com/images/M/MV5BNzkyNzk4OTEwNF5BMl5BanBnXkFtZTgwOTA3MTc3MTE@._V1_.jpg",
+        "href": "https://www3.animeflv.net/anime/deltora-quest"
+    },
+    {
+        "id": 19,
+        "name": "Kusuriya no Hitorigoto",
+        "img": "https://pbs.twimg.com/media/F4XZ5wbXIAABu74?format=jpg&name=4096x4096",
+        "href": "https://www3.animeflv.net/anime/kusuriya-no-hitorigoto"
+    },
+    {
+        "id": 20,
+        "name": "Amnesia",
+        "img": "https://pm1.aminoapps.com/6546/49d425ed1908260409857bb0c027485d00450c49_00.jpg",
+        "href": "https://www3.animeflv.net/anime/amnesia"
+    },
+    {
+        "id": 21,
+        "name": "Tokyo Ghoul",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTM5ZjA2YWMtYjY3Ny00ZDU1LTk1NjYtMzhjMGY5ZmZkMzgwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
+        "href": "https://www3.animeflv.net/anime/tokyo-ghoul"
+    },
+    {
+        "id": 22,
+        "name": "Shingeki no Kyojin",
+        "img": "https://phantom-marca-mx.unidadeditorial.es/b4545d6fef6c25bf830375df5ee58d32/resize/828/f/jpg/mx/assets/multimedia/imagenes/2023/11/05/16991427016479.jpg",
+        "href": "https://www3.animeflv.net/anime/shingeki-no-kyojin"
+    },
+    {
+        "id": 23,
+        "name": "Jujutsu Kaisen",
+        "img": "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=480,height=720,quality=85/catalog/crunchyroll/e4e80c83c792d81c138e320874dbdffc.jpe",
+        "href": "https://www3.animeflv.net/anime/jujutsu-kaisen-tv"
+    },
+    {
+        "id": 24,
+        "name": "Oshi no Ko",
+        "img": "https://m.media-amazon.com/images/M/MV5BZmM1M2E1ZDEtYTZiNy00NzFjLTk2NDUtODExMWM3OWQ2NGU3XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+        "href": "https://www3.animeflv.net/anime/oshi-no-ko"
+    },
+    {
+        "id": 25,
+        "name": "Tensei Shitara",
+        "img": "https://images.justwatch.com/poster/163161802/s718/tensei-shitara-slime-datta-ken.jpg",
+        "href": "https://www3.animeflv.net/anime/tensei-shitara-slime-datta-ken"
+    },
+    {
+        "id": 26,
+        "name": "mew mew power",
+        "img": "https://pm1.aminoapps.com/6525/76c3fa331fc1e83fedaa254817421af3b7eeb3b8_00.jpg",
+        "href": "https://www3.animeflv.net/anime/tokyo-mew-mew"
+    },
+    {
+        "id": 27,
+        "name": "Pokemon",
+        "img": "https://es.web.img2.acsta.net/pictures/14/07/18/10/57/567741.jpg",
+        "href": "https://www3.animeflv.net/anime/pokemon-2019"
+    },
+    {
+        "id": 28,
+        "name": "Digimon",
+        "img": "https://upload.wikimedia.org/wikipedia/en/4/43/Digimon_Digital_Monsters_Season_1_DVD_Cover.png",
+        "href": "https://www3.animeflv.net/anime/digimon-adventure-2020"
+    },
+    {
+        "id": 29,
+        "name": "Monster Musume no Oishasan",
+        "img": "https://m.media-amazon.com/images/M/MV5BMGJmMWU2MGYtZTEzMy00OGQ2LWI4NTYtNzBhNGI0OTM1N2I5XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+        "href": "https://www3.animeflv.net/anime/monster-musume-no-oishasan"
+    },
+    {
+        "id": 30,
+        "name": "Kamisama",
+        "img": "https://www.animenewsnetwork.com/thumbnails/fit400x400/cms/news.3/162212/kv-7.jpg",
+        "href": "https://www3.animeflv.net/anime/kamisama-ni-natta-hi"
+    },
+    {
+        "id": 31,
+        "name": "Solo Leveling",
+        "img": "https://img.asmedia.epimg.net/resizer/v2/3NSUHAFMPJNIHEDWUPA5POME3Y.jpg?auth=8af9d04a73bc2a9576334971e3ef016df4a61a232dd54799178ba17e9117511a&width=1472&height=1104&smart=true",
+        "href": "https://www3.animeflv.net/anime/solo-leveling"
+    },
+    {
+        "id": 32,
+        "name": "One Piece Live Action",
+        "img": "https://ramenparados.com/wp-content/uploads/2023/09/OnePiece_Poster.jpg",
+        "href": "https://www.netflix.com/watch/80107105?trackId=255824129"
+    },
+    {
+        "id": 33,
+        "name": "Gossip Girl",
+        "img": "https://es.web.img3.acsta.net/pictures/13/12/04/16/18/394160.jpg",
+        "href": "https://www.netflix.com/watch/70212576?trackId=255824129"
+    },
+    {
+        "id": 34,
+        "name": "Avatar: La Leyenda de Aang Live Action",
+        "img": "https://indiehoy.com/wp-content/uploads/2024/02/poster-avatar-leyenda-aang.jpg",
+        "href": "https://www.netflix.com/search?q=avatar&jbv=80237957"
+    },
+    {
+        "id": 35,
+        "name": "Jujutsu Kaisen 0",
+        "img": "https://m.media-amazon.com/images/M/MV5BODM0NmVjMzUtOTJhNi00N2ZhLWFkYmMtYmZmNjRiY2M1YWY4XkEyXkFqcGdeQXVyOTgxOTA5MDg@._V1_.jpg",
+        "href": "https://www3.animeflv.net/anime/jujutsu-kaisen-0-movie"
+    },
+    {
+        "id": 36,
+        "name": "Dungeons & Dragons",
+        "img": "https://m.media-amazon.com/images/M/MV5BZWM5MTQ3NDMtNGFiMS00Y2E5LWE2ZTUtNzM5MTcyZjM3ODRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "href": "https://hd.cuevana3.nu/peliculas-online/78830/calabozos-dragones-honor-entre-ladrones-online-gratis-en-cuevana/"
+    },
+    {
+        "id": 37,
+        "name": "The Taking of Deborah",
+        "img": "https://upload.wikimedia.org/wikipedia/en/7/76/The_Taking_of_Deborah_Logan.png",
+        "href": "https://hd.cuevana3.nu/peliculas-online/89405/profecia-sangrienta-la-posesion-de-deborah-logan-online-gratis-en-cuevana/"
+    },
+    {
+        "id": 38,
+        "name": "Yu-Gi-Oh!",
+        "img": "https://m.media-amazon.com/images/M/MV5BMDM0MDA3NzYtMDE1MS00YjZmLWJmNjQtNzgxYzlhMmMyZjQ2XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_FMjpg_UX1000_.jpg",
+        "href": "https://www3.animeflv.net/anime/yu-gi-oh"
+    }
+]
+
+}

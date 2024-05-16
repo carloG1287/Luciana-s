@@ -1,0 +1,12 @@
+.div__Games{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+.p__Games{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    font-family: Apple Chancery, cursive;
+}

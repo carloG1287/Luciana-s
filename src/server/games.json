@@ -1,0 +1,167 @@
+{
+    "games":[
+    {
+      "id": "1",
+      "name": "Roblox",
+      "img": "https://images.rbxcdn.com/d66ae37d46e00a1ecacfe9531986690a.jpg",
+      "href": "https://www.roblox.com/"
+    },
+    {
+      "id": "2",
+      "name": "League of Legends",
+      "img": "https://nerdbot.com/wp-content/uploads/2022/01/league-of-legends-2022-official-art.jpg",
+      "href": "https://na.leagueoflegends.com/en-us/"
+    },
+    {
+      "id": "3",
+      "name": "Fornite",
+      "img": "https://cdn1.epicgames.com/offer/fn/Blade_2560x1440_2560x1440-95718a8046a942675a0bc4d27560e2bb",
+      "href": "https://www.epicgames.com/fortnite/es-ES/home"
+    },
+    {
+      "id": "4",
+      "name": "Minecraft pvp",
+      "img": "https://www.minecraft.net/content/dam/games/minecraft/key-art/Vanilla-PMP_Collection-Carousel-0_Trails-and-Tales_1280x768.jpg",
+      "href": "https://www.minecraft.net/es-es"
+    },
+    {
+      "id": "5",
+      "name": "The Forest",
+      "img": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3001/elqgwr6d4iZCqcUgiL5Jx1HB.png",
+      "href": "https://store.steampowered.com/app/242760/The_Forest/"
+    },
+    {
+      "id": "6",
+      "name": "Outlast",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/Outlast_cover.jpg",
+      "href": "https://store.steampowered.com/app/238320/Outlast/"
+    },
+    {
+      "id": "7",
+      "name": "Outlast 2",
+      "img": "https://image.api.playstation.com/cdn/UP2113/CUSA06623_00/5vXtP0O5fmnnyrNnWAinTz57d04szG3b.png",
+      "href": "https://store.steampowered.com/app/414700/Outlast_2/"
+    },
+    {
+      "id": "8",
+      "name": "Dead by Daylight",
+      "img": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylight_BehaviourInteractive_S1_2560x1440-a32581cf9948a9a2e24b2ff15c1577c7",
+      "href": "https://store.steampowered.com/app/381210/Dead_by_Daylight/"
+    },
+    {
+      "id": "9",
+      "name": "What Comes After",
+      "img": "https://cdn.akamai.steamstatic.com/steam/apps/1421760/capsule_616x353.jpg?t=1689148619",
+      "href": "https://store.steampowered.com/app/1421760/What_Comes_After/"
+    },
+    {
+      "id": "10",
+      "name": "Milk outside a bag of milk outside a bag of milk",
+      "img": "https://cdn.akamai.steamstatic.com/steam/apps/1604000/capsule_616x353.jpg?t=1658165566",
+      "href": "https://store.steampowered.com/app/1604000/Milk_outside_a_bag_of_milk_outside_a_bag_of_milk/"
+    },
+    {
+      "id": "11",
+      "name": "LoveChoice",
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/939400/capsule_616x353.jpg?t=1679322588",
+      "href": "https://store.steampowered.com/app/939400/LoveChoice/"
+    },
+    {
+      "id": "12",
+      "name": "Sky: Niños de la luz",
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2325290/capsule_616x353.jpg?t=1712870373",
+      "href": "https://store.steampowered.com/app/2325290/Sky_Nios_de_la_luz/"
+    },
+    {
+      "id": "13",
+      "name": "My Brother Rabbit",
+      "img": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/m/my-brother-rabbit-switch/hero",
+      "href": "https://store.steampowered.com/app/855640/My_Brother_Rabbit/"
+    },
+    {
+      "id": "14",
+      "name": "Lethal Company",
+      "img": "https://cdn.akamai.steamstatic.com/steam/apps/1966720/capsule_616x353.jpg?t=1700231592",
+      "href": "https://store.steampowered.com/app/1966720/Lethal_Company/"
+    },
+    {
+      "id": "15",
+      "name": "Resident Evil Revelations 2",
+      "img": "https://cdn.akamai.steamstatic.com/steam/apps/287290/capsule_616x353.jpg?t=1700453056",
+      "href": "https://store.steampowered.com/app/287290/Resident_Evil_Revelations_2/"
+    },
+    {
+      "id": "16",
+      "name": "Escape the Backrooms",
+      "img": "https://cdn.akamai.steamstatic.com/steam/apps/1943950/capsule_616x353.jpg?t=1710893725",
+      "href": "https://store.steampowered.com/app/1943950/Escape_the_Backrooms/"
+    },
+    {
+      "id": "17",
+      "name": "Stardew Valley",
+      "img": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/s/stardew-valley-switch/hero",
+      "href": "https://store.steampowered.com/app/413150/Stardew_Valley/"
+    },
+    {
+      "id": "18",
+      "name": "Gang Beasts",
+      "img": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000033942/04e13ca17a27aad6c8fe171aca4bcd9731cf04121542958fa4d09d2b49c4c154",
+      "href": "https://store.steampowered.com/app/285900/Gang_Beasts/"
+    },
+    {
+      "id": "19",
+      "name": "Pico Park",
+      "img": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/p/pico-park-switch/hero",
+      "href": "https://store.steampowered.com/app/655770/Pico_Park/"
+    },
+    {
+      "id": "20",
+      "name": "Team Fight Tactics",
+      "img": "https://miro.medium.com/v2/resize:fit:1200/1*uIX2cnzRkgYSRR6NEmnarQ.jpeg",
+      "href": "https://na.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-12-5-notes/"
+    },
+    {
+      "id": "21",
+      "name": "Raft",
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/648800/capsule_616x353.jpg?t=1693638925",
+      "href": "https://store.steampowered.com/app/648800/Raft/"
+    },
+    {
+      "id": "22",
+      "name": "Payday 2",
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/218620/header.jpg?t=1712649983",
+      "href": "https://store.steampowered.com/app/218620/PAYDAY_2/"
+    },
+    {
+      "id": "23",
+      "name": "Left 4 Dead 2",
+      "img": "https://cdn.akamai.steamstatic.com/steam/apps/550/capsule_616x353.jpg?t=1713549936",
+      "href": "https://store.steampowered.com/app/550/Left_4_Dead_2/"
+    },
+    {
+      "id": "24",
+      "name": "Among Us",
+      "img": "https://cdn1.epicgames.com/salesEvent/salesEvent/amoguslandscape_2560x1440-3fac17e8bb45d81ec9b2c24655758075",
+      "href": "https://store.steampowered.com/app/945360/Among_Us/"
+    },
+    {
+      "id": "25",
+      "name": "Dying Light",
+      "img": "https://cdn.akamai.steamstatic.com/steam/apps/239140/header.jpg?t=1711721651",
+      "href": "https://store.steampowered.com/app/239140/Dying_Light/"
+    },
+    {
+      "id": "26",
+      "name": "Sons of the Forest",
+      "img": "https://cdn.akamai.steamstatic.com/steam/apps/1326470/capsule_616x353.jpg?t=1708624856",
+      "href": "https://store.steampowered.com/app/1326470/Sons_of_the_Forest/"
+    },
+    {
+      "id": "27",
+      "name": "Alice: Madness Returns",
+      "img": "https://gaming-cdn.com/images/products/163/616x353/alice-madness-returns-pc-game-ea-app-cover.jpg?v=1707145417",
+      "href": "https://store.steampowered.com/app/19680/Alice_Madness_Returns/"
+    }
+  ]
+}
+  
